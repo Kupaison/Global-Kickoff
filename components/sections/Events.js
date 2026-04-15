@@ -9,7 +9,7 @@ const EVENTS = [
     date: "June 2026 — TBA",
     time: "Doors 5:00 PM · Kickoff 6:00 PM",
     badge: "FLAGSHIP",
-    ticketUrl: "https://eventbrite.com", // Replace with your actual Eventbrite link
+    ticketUrl: "https://tickets.globalkickoff.live", // Replace with your actual Eventbrite link
     soldOut: false,
     featured: true,
   },
@@ -20,7 +20,7 @@ const EVENTS = [
     date: "July 2026 — TBA",
     time: "Doors 6:00 PM · Kickoff 9:00 PM",
     badge: "VIP ONLY",
-    ticketUrl: "https://eventbrite.com",
+    ticketUrl: "https://tickets.globalkickoff.live",
     soldOut: false,
     featured: false,
   },
@@ -31,7 +31,7 @@ const EVENTS = [
     date: "July 19, 2026",
     time: "Doors 10:00 AM · Kickoff 12:00 PM",
     badge: "FINAL",
-    ticketUrl: "https://eventbrite.com",
+    ticketUrl: "https://tickets.globalkickoff.live",
     soldOut: false,
     featured: false,
   },
